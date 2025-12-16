@@ -20,11 +20,11 @@ ________________________________________
 •	Clean and professional layout  
 ________________________________________
 ### 📷 Dashboard Preview
-![Dashboard Preview]()
+![Dashboard Preview](https://github.com/honey255/Excel-DashBoard/blob/main/Cafe%20Sales%20Dashboard/Cafe%20Data%20Dashboard%20Picture.png)
 ________________________________________
 ### 🚀 Getting Started
 
-1.	Download the Excel file -> [Click Here]()
+1.	Download the Excel file -> [Click Here](https://github.com/honey255/Excel-DashBoard/blob/main/Cafe%20Sales%20Dashboard/Cafe%20Data%20Dashboard.xlsx)
 2.	Open the file in Microsoft Excel
 3.	Go to the Dashboard sheet to explore insights
 4.	Use slicers to filter by date, product, or category
